@@ -9,6 +9,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html{
-  font-size: 10px;
-  line-height: 25px;
+  font-family: "Calibri", Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 25.2px;
 }
