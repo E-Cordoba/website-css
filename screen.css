@@ -13,3 +13,9 @@ html{
   font-size: 18px;
   line-height: 25.2px;
 }
+h1,
+h2,
+h3,
+p {
+  padding-bottom: 25.2px;
+}
