@@ -19,3 +19,21 @@ h3,
 p {
   padding-bottom: 25.2px;
 }
+
+h1{
+  font-size: 60.75px;
+  line-height: 50.4px;
+}
+h2{
+  font-size: 40.5px;
+  line-height: 37.8px;
+  font-weight: bold;
+}
+h3{
+  font-size: 27px;
+  font-weight: 600;
+}
+
+a{
+  text-decoration: none;
+}
