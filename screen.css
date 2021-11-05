@@ -45,5 +45,27 @@ nav{
 img{
   display: block;
   max-width: 100%;
-  
+  padding-bottom: 12.6px;
+}
+
+figcaption{
+  padding-bottom: 12.6px;
+}
+
+
+/*Layout Rules*/
+
+/*MEDIA QUERIES*/
+@media screen and (max-width: 250px) {
+  h1{
+    font-size: 40.5px;
+    line-height: 37.8px;
+  }
+}
+
+@media screen and (max-width: 170px) {
+  h1{
+    font-size: 27px;
+    line-height: 37.8px;
+  }
 }
