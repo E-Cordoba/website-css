@@ -13,6 +13,7 @@ html{
   font-size: 18px;
   line-height: 25.2px;
   padding: 12.6px;
+  background-color: #C9FFF8;
 }
 
 h1,
@@ -52,8 +53,22 @@ figcaption{
   padding-bottom: 12.6px;
 }
 
+header{
+  text-align: center;
+  width: 100%;
+  background-color: #C9FFF8;
+}
 
-/*Layout Rules*/
+footer{
+  padding-top: 25.2px;
+}
+
+#moviefact-facts ul {
+  list-style-type: square;
+  list-style-position: inside;
+  padding-bottom: 12.6px;
+}
+
 
 /*MEDIA QUERIES*/
 @media screen and (max-width: 250px) {
