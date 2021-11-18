@@ -69,23 +69,10 @@ footer{
   padding-bottom: .938em;
 }
 
-#aboutme-intrest h3{
-  font-size: 1.2em;
-  font-weight: 200;
+#intrest ul {
+  font-size: 1.728em;
+  font-weight: 500;
 }
 
 
 /*MEDIA QUERIES*/
-@media screen and (min-width: 250px) {
-  h1{
-    font-size: 1.688em;
-    line-height: normal;
-  }
-}
-
-@media screen and (min-width: 170px) {
-  h1{
-    font-size: 1.728em;
-    line-height: normal;
-  }
-}
