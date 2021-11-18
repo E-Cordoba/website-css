@@ -60,6 +60,7 @@ header{
 }
 
 footer{
+  font-size: .694em;
   padding-top: 25.2px;
 }
 
@@ -80,3 +81,22 @@ footer{
 
 
 /*MEDIA QUERIES*/
+
+@media screen and (min-width: 600px){
+
+  h1{
+    font-size: 2.074em;
+    line-height: normal;
+  }
+
+  h2{
+    font-size: 1.728em;
+    line-height: normal;
+  font-weight: bold;
+  }
+
+  h3{
+    font-size: 1.44em;
+    line-height: normal;
+  }
+}
