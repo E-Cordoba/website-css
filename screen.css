@@ -70,14 +70,12 @@ footer{
 }
 
 #intrest ul {
-  list-style-type: square;
-  list-style-position: inside;
   font-size: 1.728em;
   font-weight: 500;
 }
 
-#resume-contactinformation ul{
-    padding-bottom: 1.563em;
+#contactinformation article{
+    padding-bottom: 25px;
 }
 
 
