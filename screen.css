@@ -100,3 +100,22 @@ footer{
     line-height: normal;
   }
 }
+
+@media screen and (min-width: 1200px){
+
+  h1{
+    font-size: 2.488em;
+    line-height: normal;
+  }
+
+  h2{
+    font-size: 2.074em;
+    line-height: normal;
+  font-weight: bold;
+  }
+
+  h3{
+    font-size: 1.728em;
+    line-height: normal;
+  }
+}
