@@ -73,7 +73,9 @@ p{
   list-style-position: inside;
   padding-bottom: .938em;
 }
-
+#moviefact-facts li {
+  color: #0099ff
+}
 #intrest ul {
   font-size: 1.728em;
   font-weight: 500;
