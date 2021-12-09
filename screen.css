@@ -84,7 +84,9 @@ p{
 #contactinformation ul {
     padding-bottom: 3.125em;
 }
-
+#contactinformation li {
+  color: #0099ff;
+}
 
 /*MEDIA QUERIES*/
 
