@@ -65,6 +65,10 @@ footer{
   padding-top: 1.5625em;
 }
 
+a{
+  color: #0099ff;
+}
+
 #moviefact-facts ul {
   list-style-type: square;
   list-style-position: inside;
